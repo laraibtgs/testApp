@@ -17,7 +17,7 @@ function ResumeComponent() {
 function App() {
   return (
     <div className="App1">
-      <header className="App-header1">
+      <header className="App-header1 ">
       </header>
       <Router>
       <Routes>
